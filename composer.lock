@@ -507,6 +507,7 @@
             "time": "2016-10-24T15:52:54+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "kartik-v/bootstrap-fileinput",
             "version": "v4.4.0",
             "source": {
@@ -769,6 +770,8 @@
             "time": "2017-04-15 05:25:51"
         },
         {
+=======
+>>>>>>> fa1d5fb636d9e5f19b3af7ba5a89ac9f184c2a7f
             "name": "mdmsoft/yii2-admin",
             "version": "2.7",
             "source": {
@@ -3607,10 +3610,14 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
+<<<<<<< HEAD
     "stability-flags": {
         "kartik-v/yii2-widget-datepicker": 20,
         "kartik-v/yii2-widget-fileinput": 20
     },
+=======
+    "stability-flags": [],
+>>>>>>> fa1d5fb636d9e5f19b3af7ba5a89ac9f184c2a7f
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {

@@ -53,7 +53,6 @@ class GoodsImgController extends Controller
                 ]);
             }
         }
-        
     }
 
     /**
